@@ -46,7 +46,8 @@ In the code:
 
     line 195 : enter your discord access token in "YOUR ACCESS TOKEN" section 
     line 197 : enter your discord channel ID in "YOUR CHANNEL ID" section 
-
+    
+FINALLY This is a code that used for educational purpose ONLY :)
 ## Authors
 
 - [@DanaOG](https://www.github.com/DanaOG)
