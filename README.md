@@ -53,6 +53,6 @@ FINALLY This is a code that used for educational purpose ONLY :)
 - [@DanaOG](https://www.github.com/DanaOG)
 - Samar Alqahtani
 - Rana Aboulsamh
-- Nouf alshamrani
+- Nouf alshahrani
 - Sara Alsaber
 - Wadha Iberahim 
